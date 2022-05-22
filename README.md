@@ -1,2 +1,2 @@
 # CSharpAdvancedExercises
-This repo is rof my SoftUni exercises
+This repo is for my SoftUni exercises
